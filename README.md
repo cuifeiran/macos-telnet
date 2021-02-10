@@ -4,6 +4,6 @@
 
 提示这个没权限,加执行权限
 
-cd /usr/local/bin/
+cd /usr/local/bin/  
 chmod +x telnet
 
